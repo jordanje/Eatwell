@@ -12,5 +12,12 @@
     "cuisine": "Indian",
     "website": "https://mygreattest.com",
     "description": "It's also amazing!"
+  },
+  {
+    "name": "Little Pearl",
+    "address": "4800 Georgia Ave",
+    "cuisine": "American",
+    "website": "https://www.littlepearl.com",
+    "description": "Great food!"
   }
 ]
